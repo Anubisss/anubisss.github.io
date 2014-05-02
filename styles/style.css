@@ -120,6 +120,7 @@ header {
     border-bottom: 1px solid #A3A3A3;
     line-height: 1.8;
     font-size: 16px;
+    font-style: italic;
 }
 
 .column_content {
