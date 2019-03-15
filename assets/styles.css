@@ -195,3 +195,5 @@
 
 .article h1, .article h2, .article h3, .article h4, .article .highlight { margin-bottom: 16px; }
 .article blockquote { color: #6a737d; border-left: 2px solid #959da5; padding-left: 16px; }
+
+footer { text-align: center; padding-top: 10px; padding-bottom: 10px; font-size: 0.8rem; color: #9E9E9E; }
